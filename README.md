@@ -1,2 +1,0 @@
-# boboxinvest-mvp
-RE platform

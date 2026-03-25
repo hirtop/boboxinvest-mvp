@@ -1,0 +1,10 @@
+# boboxinvest-mvp
+RE platform
+MVP is rentals only
+Core workflow:
+Sign up → Add Rental Deal → Generate Instant Card → Open Comprehensive Card → Save Deal
+Out of scope:
+flips, land, new construction, teams, advanced integrations
+Main docs to follow
+First build target:
+working Instant Card flow
